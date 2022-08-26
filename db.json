@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Product updated",
+      "price": "756"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 124
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 855
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": 812
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "price": 134
+    }
+  ]
+}
